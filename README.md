@@ -1,4 +1,4 @@
-
+[![ML Pipeline](https://github.com/GajananKuchgave/ERAV3_Assignement_6/actions/workflows/ml_pipeline.yml/badge.svg)](https://github.com/GajananKuchgave/ERAV3_Assignement_6/actions/workflows/ml_pipeline.yml)
 # MNIST CNN Model with CI/CD Pipeline
 
 This project implements a CNN model for MNIST digit classification with a complete CI/CD pipeline.
